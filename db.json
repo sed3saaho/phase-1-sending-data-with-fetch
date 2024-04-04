@@ -1,30 +1,307 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "c287",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "9632",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "8814",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "3543",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "0647",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "3a67",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "4201",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "587e",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "9012",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "ebc2",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "3bb9",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "d899",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "aee7",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "160b",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "24d4",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "00a8",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "d6a0",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "e0e7",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "2180",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "4f60",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "c650",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "08a0",
+      "usersname": "Sedly",
+      "usersemail": "steve@steve.com"
+    },
+    {
+      "id": "e390",
+      "usersname": "Sedly",
+      "usersemail": "steve@steve.com"
+    },
+    {
+      "id": "0b2c",
+      "usersname": "Sedly",
+      "usersemail": "steve@steve.com"
+    },
+    {
+      "id": "2b07",
+      "usersname": "Sedly",
+      "usersemail": "steve@steve.com"
+    },
+    {
+      "id": "4f14",
+      "usersname": "Sedly",
+      "usersemail": "steve@steve.com"
+    },
+    {
+      "id": "eada",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "b7db",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "b436",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "c044",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "8ff6",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "3ff5",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "8d41",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "bb40",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "6cc8",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "020c",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "9ec6",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "5fd6",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "6333",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "8716",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "6a13",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "9ac5",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "8bc4"
+    },
+    {
+      "id": "c4e4",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "7723"
+    },
+    {
+      "id": "432b",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "a8ef"
+    },
+    {
+      "id": "d8c8"
+    },
+    {
+      "id": "3155",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "b4ef",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "7464",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "ceb2",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "1859",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "6867",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "f5bc",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    },
+    {
+      "id": "a021",
+      "usersname": "Bazenga",
+      "usersemail": "Bazenga@Moringa.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
